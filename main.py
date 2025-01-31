@@ -4,7 +4,7 @@ from parse import parse_with_ollama
 
 # Page Configuration
 st.set_page_config(
-    page_title="ScrapeCraft AI",
+    page_title="ScrapeCraft",
     page_icon="🌐",
     layout="wide",
     initial_sidebar_state="expanded"
