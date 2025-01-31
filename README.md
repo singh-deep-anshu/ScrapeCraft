@@ -5,7 +5,7 @@
 [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)](https://streamlit.io/)
 [![Python](https://img.shields.io/badge/Python-3.9%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![BeautifulSoup](https://img.shields.io/badge/Beautiful_Soup-4.9.3-green?style=for-the-badge)](https://www.crummy.com/software/BeautifulSoup/)
-[![DeepSeek](https://img.shields.io/badge/DeepSeek_R1-LLM_Integration-61DAFB?style=for-the-badge)](https://deepseek.com/)
+[![DeepSeek](https://img.shields.io/badge/DeepSeek_R1-LLM_Model-61DAFB?style=for-the-badge)](https://deepseek.com/)
 [![Ollama](https://img.shields.io/badge/Ollama-LLM_Integration-orange?style=for-the-badge)](https://ollama.com/)
 
 
