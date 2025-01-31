@@ -11,7 +11,6 @@
 
 ## Features
 - **DeepSeek-R1 LLM Integration** - Advanced natural language processing for intelligent content extraction
-- **Modern Dark UI** - Pink-accented interface with dark theme
 - **End-to-End Workflow** - URL input → Scraping → AI Parsing → Results
 - **Error Resilient** - Robust handling of failed requests and parsing errors
 - **Session Management** - Preserves user state between interactions
