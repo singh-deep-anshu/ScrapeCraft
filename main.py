@@ -133,8 +133,8 @@ if "dom_content" in st.session_state:
         st.code(st.session_state.dom_content, language="html")
 
     st.divider()
-    st.subheader("🔍 Content Analysis")
-    parse_desc = st.text_input("**🔎 What would you like to extract?**",
+    st.subheader("Content Analysis")
+    parse_desc = st.text_input("**What would you like to extract?**",
                               placeholder="e.g., 'Extract all email addresses' or 'List main headings'")
     
     if st.button("✨ Parse Content", type="primary"):
