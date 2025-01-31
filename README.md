@@ -21,7 +21,7 @@
 | **Frontend Framework** | ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=Streamlit&logoColor=white) |
 | **Core Language**       | ![Python](https://img.shields.io/badge/Python-3.9%2B-3776AB?style=flat&logo=python&logoColor=white) |
 | **Web Scraping**        | ![BeautifulSoup](https://img.shields.io/badge/Beautiful_Soup-4.9.3-green?style=flat) + ![lxml](https://img.shields.io/badge/lxml-4.6.3-blue?style=flat) |
-| **AI Engine**           | ![DeepSeek](https://img.shields.io/badge/DeepSeek_R1-LLM_Integration-61DAFB?style=flat) |
+| **AI Engine**           | [![Ollama](https://img.shields.io/badge/Ollama--orange?style=for-the-badge)](https://ollama.com/) + ![DeepSeek](https://img.shields.io/badge/DeepSeek_R1-LLM_Model-61DAFB?style=flat) |
 | **HTTP Client**         | ![Requests](https://img.shields.io/badge/Requests-2.26.0-red?style=flat) |
 
 ## Installation
